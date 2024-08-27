@@ -18,9 +18,6 @@ Welcome to **TurboSume**—the ultimate tool for crafting professional resumes s
 - **React.js**: Modern library for building dynamic user interfaces.
 - **Chakra UI**: Elegant component library for a responsive and accessible design.
 
-### 🔧 Backend
-- **Node.js**: Robust runtime environment for server-side operations.
-
 ### 🔧 Utilities
 - **JavaScript**: The language of choice for both frontend and backend development.
 - **React-to-Print**: Library to facilitate seamless printing of React components.
